@@ -1,4 +1,4 @@
-Match,ME,MI,MS,MA,FE,FI,FS,FA
+Risk,Age,Civil_Status,Edu,Reason,Race,Religion,Occupation
 0,I,S,T,J,E,N,T,J
 1,E,N,F,P,E,N,F,J
 1,I,S,F,J,I,S,F,P
